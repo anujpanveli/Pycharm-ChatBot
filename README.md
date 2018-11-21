@@ -6,7 +6,7 @@ A simple chatbot that takes input from a text file containing data, learns from 
 
 --> Run the following commands on your pycharm terminal before executing the Bot.py file.
 
- 1) pip install opencv-contrib-python
+ 1) pip install -U nltk
 
  2) pip install scikit-learn
 
